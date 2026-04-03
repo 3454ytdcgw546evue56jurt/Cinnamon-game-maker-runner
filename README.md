@@ -11,4 +11,6 @@ Required packages to build:
 -GCC
 
 Arguments Cinnamon runner arguments:
+
 -datafile data file to load
+-PrintStrings
